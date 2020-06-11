@@ -46,8 +46,8 @@ As a user I would like:
 
 # Acknowledgements
 * Moringa sch & TM's.
-* Stack Overflow
-* Google
+* Stack Overflow.
+* Google.
 
 ## KNOWN BUGS:
 Any bugs noted you can email me for clarification.

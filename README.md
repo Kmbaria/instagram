@@ -6,7 +6,7 @@ By George kinyanjui mbaria
 
 
 # Description
-The project is about creating a clone of the website for the popular photo app Instagram.
+The project is about creating a clone  for the popular photo app Instagram.
 
 # User Stories
 As a user I would like:

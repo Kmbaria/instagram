@@ -2,7 +2,7 @@
   (mygram)
 
 # Author
-By George kinyanjui mbaria
+By George kinyanjui mbaria.
 
 
 # Description

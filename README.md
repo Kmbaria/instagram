@@ -45,7 +45,7 @@ As a user I would like:
 * Heroku
 
 # Acknowledgements
-* Moringa sch  & TM's
+* Moringa sch & TM's
 * Stack Overflow
 * Google
 

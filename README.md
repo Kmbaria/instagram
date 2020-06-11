@@ -1,7 +1,7 @@
 # Instagram
 
 # Author
-By George kinyanjui mbaria,
+By George kinyanjui mbaria
 
 # Description
 The project is about creating a clone of the website for the popular photo app Instagram.

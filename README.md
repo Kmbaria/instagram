@@ -29,7 +29,7 @@ As a user I would like:
 * Run git clone REPO-URL in your terminal
 * Write cd Instagram-pic
 * Create a virtual environment with python3.6 -m venv virtual
-* activate the virtual environment :source virtual/bin/activate
+* Activate the virtual environment :source virtual/bin/activate
 * run pip install -r requirements.txt
 * create Postgres Database
 * run (python3.6 manage.py runserver) to run the application

@@ -1,5 +1,5 @@
 # Instagram 
-  (My)
+  (mygram)
 
 # Author
 By George kinyanjui mbaria

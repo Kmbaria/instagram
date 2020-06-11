@@ -45,7 +45,7 @@ As a user I would like:
 * Heroku
 
 # Acknowledgements
-* Moringa sch & TM's
+* Moringa sch & TM's.
 * Stack Overflow
 * Google
 
@@ -57,7 +57,7 @@ Any bugs noted you can email me for clarification.
 You can email at:Kmbaria.george@gmail.com
 
 ## LICENSE:
-MIT License
+MIT License.
 
 Copyright (c) [2020] Jojik.GK
 

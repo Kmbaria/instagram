@@ -40,7 +40,7 @@ As a user I would like:
 * Python ( version 3.6 )
 * Django ( version 3.0.6 )
 * Django Bootstrap 3
-*
+* CSS
 * PostgreSQL
 * Heroku
 

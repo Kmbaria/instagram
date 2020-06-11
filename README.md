@@ -32,7 +32,7 @@ As a user I would like:
 * Activate the virtual environment :source virtual/bin/activate
 * Run pip install -r requirements.txt
 * Create Postgres Database
-* run (python3.6 manage.py runserver) to run the application
+* Run (python3.6 manage.py runserver) to run the application
 
 
 

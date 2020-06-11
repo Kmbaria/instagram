@@ -54,7 +54,7 @@ Any bugs noted you can email me for clarification.
 
 
 ## CONTACT INFO:
-You can email at:Kmbaria.george@gmail.com
+You can email at: Kmbaria.george@gmail.com
 
 ## LICENSE:
 MIT License.

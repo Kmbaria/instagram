@@ -25,8 +25,8 @@ As a user I would like:
 
 ## Installation Process
 * Open my GitHub
-* find my repo PhotoBooth
-* run git clone REPO-URL in your terminal
+* Find my repo PhotoBooth
+* un git clone REPO-URL in your terminal
 * write cd Instagram-pic
 * create a virtual environment with python3.6 -m venv virtual
 * activate the virtual environment :source virtual/bin/activate

@@ -30,7 +30,7 @@ As a user I would like:
 * Write cd Instagram-pic
 * Create a virtual environment with python3.6 -m venv virtual
 * Activate the virtual environment :source virtual/bin/activate
-* run pip install -r requirements.txt
+* Run pip install -r requirements.txt
 * create Postgres Database
 * run (python3.6 manage.py runserver) to run the application
 

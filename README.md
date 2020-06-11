@@ -28,7 +28,7 @@ As a user I would like:
 * Find my repo PhotoBooth
 * Run git clone REPO-URL in your terminal
 * Write cd Instagram-pic
-* create a virtual environment with python3.6 -m venv virtual
+* Create a virtual environment with python3.6 -m venv virtual
 * activate the virtual environment :source virtual/bin/activate
 * run pip install -r requirements.txt
 * create Postgres Database

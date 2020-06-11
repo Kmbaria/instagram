@@ -24,7 +24,7 @@ As a user I would like:
 * PostgreSQL
 
 ## Installation Process
-* Op  y GitHub
+* Open my GitHub
 * find my repo PhotoBooth
 * run git clone REPO-URL in your terminal
 * write cd Instagram-pic

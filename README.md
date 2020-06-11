@@ -3,7 +3,6 @@
 # Author
 By George kinyanjui mbaria.
 
-
 # Description
 The project is about creating a clone  for the popular photo app Instagram.
 

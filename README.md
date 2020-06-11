@@ -13,7 +13,7 @@ As a user I would like:
 * Upload my pictures to the application.
 * See my profile with all my pictures.
 * Follow other users and see their pictures on my timeline.
-* Like a picture and leave a comment on it
+* Like a picture and leave a comment on it.
 
 
 # Setup/Installation Requirements

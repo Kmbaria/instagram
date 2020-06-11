@@ -31,7 +31,7 @@ As a user I would like:
 * Create a virtual environment with python3.6 -m venv virtual
 * Activate the virtual environment :source virtual/bin/activate
 * Run pip install -r requirements.txt
-* create Postgres Database
+* Create Postgres Database
 * run (python3.6 manage.py runserver) to run the application
 
 
